@@ -1,3 +1,5 @@
+import Head from 'next/head';
+
 <Head>
     <title>Joshua Scurfield</title>
 </Head>
