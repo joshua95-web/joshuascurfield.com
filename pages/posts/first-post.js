@@ -11,5 +11,5 @@ export default function FirstPost() {
             <Link href="/">Back to Home</Link>
         </h2>
         </>
-    )
+    );
 }
